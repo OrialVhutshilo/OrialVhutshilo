@@ -1,0 +1,11 @@
+html body{ 
+    font-style: italic;
+color: rgba(32, 32, 31, 0.897);
+background-color: rgba(7, 195, 219, 0.637);
+background-image: -webkit-image-set(new.jpg);
+}
+style{
+        border-radius: 0%;
+        box: sizing 5px;;
+      
+}
